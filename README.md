@@ -1,7 +1,7 @@
 # KI-CD
+
 A knowledge infused Context driven (KI-CD) Disease Diagnosis VA
 
-*** Association Guided Symptom Investigation and Diagnosis Dialogue System (A-SIDDS) ***
 
 
 A. main file  : KI-CD/src/dialogue_system/run/run.py
