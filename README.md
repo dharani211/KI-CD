@@ -24,10 +24,8 @@ B.Other different varients of KI-CD
 
 	1. KI-CD_HDC
 	2. KI-CD_PCM
+	3. KI-CD_MDD (KI-CD with the MDD dataset)
   
-We also experimented with the MDD dataset 
-
-  1. KI-CD_MDD
 
 C.For Testing
 
